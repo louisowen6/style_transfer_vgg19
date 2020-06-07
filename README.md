@@ -12,4 +12,8 @@ Below is the sample result from using this code implementation
 
 --------------------------------------------
 
-You can see the code implementation on the [Google Collaboratory Notebook](https://drive.google.com/file/d/1_U88F2QEWhfXARi9Q07NXzp36QxqUPK_/view?usp=sharing)
+Created by:
+
+Louis Owen
+
+LinkedIn: https://www.linkedin.com/in/louisowen6
